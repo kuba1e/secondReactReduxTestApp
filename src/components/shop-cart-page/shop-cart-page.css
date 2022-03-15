@@ -1,0 +1,7 @@
+.cart-side-bar {
+  position: absolute;
+  z-index: 2;
+  left: -100%;
+  top: 0;
+  background-color: bisque;
+}

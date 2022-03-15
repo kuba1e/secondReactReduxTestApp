@@ -1,0 +1,16 @@
+.navbar-brand {
+  font-family: "Playfair Display", serif;
+  font-size: 36px;
+  cursor: pointer;
+  padding-left: 50px;
+}
+
+.cart {
+  display: flex;
+  align-items: center;
+  padding-right: 50px;
+}
+
+.cart {
+  position: relative;
+}
